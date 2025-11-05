@@ -1,6 +1,8 @@
 # 🎮 Games Showcase
 
-## 🧩 WhoAreYou – Psychological Horror Prototype
+> “Play is the highest form of research.” – Albert Einstein
+
+## 🧩 [WhoAreYou – Psychological Horror Prototype](https://scariett77.itch.io/whoareyou)
 
 > A minimalistic **psychological horror experience** where the player’s only interaction is answering questions on a mysterious questionnaire.  
 > The game explores **isolation, anxiety, and introspection** through constrained player choices.
@@ -17,21 +19,9 @@
 
 > The horror emerges from the **player’s own choices and imagination**, rather than traditional jump scares.
 
----
+### 👥 Team
 
-### 🧩 Features
+* [murdercase17](https://github.com/murdercase17)  
+* [Zong](https://zong4.github.io)  
+* [goonirus](https://github.com/goonirus)  
 
-- Questionnaire-driven gameplay with branching outcomes  
-- Minimal UI to emphasize isolation  
-- Psychological feedback based on player input  
-- Ambient sound and subtle visual cues to create unease  
-
----
-
-### 📬 Links & Credits
-
-- **Play the game:** [WhoAreYou on Itch.io](https://scariett77.itch.io/whoareyou)  
-- **Author:** [Zong]  
-- **GitHub:** [github.com/zong4](https://github.com/zong4)  
-
-> _“The scariest horrors are the ones we create ourselves.”_
