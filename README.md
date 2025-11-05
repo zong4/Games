@@ -8,7 +8,7 @@
 > The game explores **isolation, anxiety, and introspection** through constrained player choices.
 
 <p align="center">
-  <img src="./Assets/WhoAreYou.png" alt="WhoAreYou Demo" width="400">
+  <img src="./Assets/WhoAreYou.png" alt="WhoAreYou Demo" width="600">
 </p>
 
 ### 🎮 Core Gameplay
