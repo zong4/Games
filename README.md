@@ -21,7 +21,7 @@
 
 ### 👥 Team
 
-* [murdercase17](https://github.com/murdercase17)  
+* [Scarlett](https://github.com/murdercase17)  
+* [Kanna](https://github.com/FallGuy102)
 * [Zong](https://zong4.github.io)  
-* [goonirus](https://github.com/goonirus)  
-
+* [Goonirus](https://github.com/goonirus)  
