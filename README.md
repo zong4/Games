@@ -7,9 +7,7 @@
 > A minimalistic **psychological horror experience** where the player’s only interaction is answering questions on a mysterious questionnaire.  
 > The game explores **isolation, anxiety, and introspection** through constrained player choices.
 
-<p align="center">
-  <img src="./Assets/WhoAreYou.png" alt="WhoAreYou Demo" width="600">
-</p>
+![WhoAreYou Demo](./Assets/WhoAreYou.png)
 
 ### 👥 Team
 
@@ -22,9 +20,7 @@
 
 > **AeroplaneChessPlus** reimagines the classic *Aeroplane Chess* by removing the traditional four-piece-per-player setup and introducing a system of **limited resources** and **tactical risk management** — emphasizing *necessary failure* as part of the core gameplay loop.
 
-<p align="center">
-  <img src="./Assets/AeroplaneChessPlus.png" alt="AeroplaneChessPlus Demo" width="600">
-</p>
+![AeroplaneChessPlus Demo](./Assets/AeroplaneChessPlus.png)
 
 ### ⚙️ Core Mechanics
 
