@@ -28,20 +28,22 @@
 
 ### ⚙️ Core Mechanics
 
+
 1. **Single Piece Control**  
    Each player controls **only one piece** on the board.
 2. **Dice Slots System**  
    Every player starts with **three dice slots**, representing dice available for rolling.
-3. **Dice Consumption**  
-   Each time a die is used, its corresponding slot becomes **empty**.
-4. **Refilling Dice**  
-   When all dice are spent, the player must **return to the starting point** to **refill** all dice slots.
+3. **Strategic Rolling**  
+   On each turn, players may choose to roll **any number of dice** from their available slots.  
+   When rolling multiple dice, they can freely **select one result** to determine movement.
+4. **Dice Consumption and Refilling**  
+   Each time a die is used, its slot becomes **empty**.  
+   When all dice are spent, players must **return to the starting point** to **refill** all dice slots.
 5. **Resource Points**  
-   Certain board spaces are **resource points** that **increase** a player’s **maximum number of dice slots**, enhancing future flexibility. In this version, **resource points are placed on grids that share the same color as the player’s piece**, encouraging strategic movement across one’s own color path.
+   Certain board spaces are **resource points** that **increase** a player’s **maximum number of dice slots**, enhancing future flexibility.  
+   In this version, **resource points are placed on grids that share the same color as the player’s piece**, encouraging strategic movement along one’s own color path.
 6. **Stealing Mechanic**  
    When a player **overtakes** another, they can **steal dice slots** from the opponent.  
-7. **Strategic Rolling**  
-   Players may choose **how many dice to roll** each turn. When rolling multiple dice, the player can freely **select the result** used for movement.
 
 ### 👥 Team
 * [Kanna](https://github.com/FallGuy102)
