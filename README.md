@@ -47,5 +47,6 @@
    When a player **overtakes** another, they can **steal dice slots** from the opponent.  
 
 ### 👥 Team
+* [Akairo](https://github.com/Itzhakrees)
 * [Kanna](https://github.com/FallGuy102)
 * [Zong](https://zong4.github.io)  
